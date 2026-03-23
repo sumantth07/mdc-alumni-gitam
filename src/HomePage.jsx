@@ -13,7 +13,7 @@ import ebJothisk from './assets/EB/PALLA JOTHISK NANDAN.jpg'
 import ebIshitha from './assets/EB/ISHITA GUPTA.jpg'
 import ebSravani from './assets/EB/SRAVANI KALISETTY.jpg'
 import visionaryGuru from './assets/GuruMurthy.jpg'
-import visionaryVikas from './assets/vikas.jpg' // replace with Vikas photo when available
+import visionaryVikas from './assets/Vikas.jpg' // replace with Vikas photo when available
 import paSanjana   from './assets/PApics/Sanjana.jpeg'
 import paHarshita  from './assets/PApics/Harshitha.jpeg'
 import paHarshitha from './assets/PApics/HarshithaKolipaka.jpeg'
