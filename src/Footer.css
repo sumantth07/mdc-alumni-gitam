@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Space+Grotesk:wght@600;700&display=swap');
+
+.footer {
+  background: white;
+  border-top: 1px solid #e0eaff;
+  margin-top: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+.footer-inner {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 56px 40px 40px;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 48px;
+}
+
+@media (max-width: 900px) {
+  .footer-inner { grid-template-columns: 1fr 1fr; padding: 40px 24px 32px; }
+}
+@media (max-width: 560px) {
+  .footer-inner { grid-template-columns: 1fr; gap: 32px; }
+}
+
+/* BRAND */
+.footer-logo-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.footer-logo {
+  width: 38px;
+  height: 38px;
+  object-fit: contain;
+  background: #163E67;
+  border-radius: 8px;
+  padding: 4px;
+}
+
+.footer-brand-name {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 22px;
+  font-weight: 700;
+  color: #0E4AC9;
+}
+
+.footer-brand-desc {
+  font-size: 14px;
+  color: #888;
+  line-height: 1.75;
+  max-width: 320px;
+}
+
+/* COLUMNS */
+.footer-col-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  color: #0E4AC9;
+  margin-bottom: 16px;
+}
+
+/* LINKS */
+.footer-links {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-links a {
+  font-size: 14px;
+  color: #666;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.footer-links a:hover { color: #0E4AC9; }
+
+/* SOCIAL ICONS */
+.footer-social-icons {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.footer-icon-btn {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s;
+  color: white;
+}
+
+.footer-icon-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+}
+
+.footer-icon-btn.instagram { background: #E1306C; }
+.footer-icon-btn.linkedin  { background: #0A66C2; }
+
+/* CONTACT BUTTON */
+.footer-contact-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #0E4AC9;
+  color: white;
+  text-decoration: none;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.footer-contact-btn:hover {
+  background: #0c40b0;
+  transform: translateY(-2px);
+}
+
+/* BOTTOM BAR */
+.footer-bottom {
+  border-top: 1px solid #f0f4ff;
+  padding: 18px 40px;
+  text-align: center;
+  font-size: 13px;
+  color: #bbb;
+}
+
+@media (max-width: 560px) { .footer-bottom { padding: 16px 24px; } }
