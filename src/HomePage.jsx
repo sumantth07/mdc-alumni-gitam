@@ -170,12 +170,12 @@ const AboutAlumni = () => {
   ];
 
   const execBody = [
-    { name: "Nitish Vinnakota",  role: "President",          img: ebNitish,  link: "https://www.linkedin.com/in/nitish-vinnakota/",   email: "nitish.vinnakota@gitam.in"   },
-    { name: "Gagan Rachakonda",  role: "Vice President",     img: ebGagan,   link: "https://www.linkedin.com/in/gagan-rachakonda/",   email: "gagan.rachakonda@gitam.in"   },
-    { name: "Snehal Andavarapu", role: "Secretary",          img: ebSnehal,  link: "https://www.linkedin.com/in/snehal-andavarapu/",  email: "snehal.andavarapu@gitam.in"  },
-    { name: "Jothisk Nandan",    role: "Head of Operations", img: ebJothisk, link: "https://www.linkedin.com/in/jothisk-nandan/",    email: "jothisk.nandan@gitam.in"     },
-    { name: "Ishitha Guptha",    role: "Technical Lead",     img: ebIshitha, link: "https://www.linkedin.com/in/ishitha-guptha/",    email: "ishitha.guptha@gitam.in"     },
-    { name: "Sravani Kalisetty", role: "Creative Head",      img: ebSravani, link: "https://www.linkedin.com/in/sravani-kalisetty/", email: "sravani.kalisetty@gitam.in"  },
+    { name: "Nitish Vinnakota",  role: "President",          img: ebNitish,  link: "https://www.linkedin.com/in/nitish-vinnakota/",   email: "nvinnakot2@gitam.in"   },
+    { name: "Gagan Rachakonda",  role: "Vice President",     img: ebGagan,   link: "https://www.linkedin.com/in/gagan-rachakonda/",   email: "garachako2@gitam.in"   },
+    { name: "Snehal Andavarapu", role: "Secretary",          img: ebSnehal,  link: "https://www.linkedin.com/in/snehal-andavarapu/",  email: "sandavar@gitam.in"  },
+    { name: "Jothisk Nandan",    role: "Head of Operations", img: ebJothisk, link: "https://www.linkedin.com/in/jothisk-nandan/",    email: "jpalla2@gitam.in"     },
+    { name: "Ishitha Guptha",    role: "Technical Lead",     img: ebIshitha, link: "https://www.linkedin.com/in/ishitha-guptha/",    email: "iguptha@gitam.in"     },
+    { name: "Sravani Kalisetty", role: "Creative Head",      img: ebSravani, link: "https://www.linkedin.com/in/sravani-kalisetty/", email: "skaliset@gitam.in"  },
   ];
 
   const prominentAlumni = [
