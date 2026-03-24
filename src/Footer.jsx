@@ -34,25 +34,7 @@ const Footer = () => {
         </div>
 
         {/* CONNECT */}
-        <div className="footer-col">
-          <h4 className="footer-col-title">Connect</h4>
-          <div className="footer-social-icons">
-            <a href="https://www.instagram.com/mdc_gitam" target="_blank" rel="noreferrer"
-               className="footer-icon-btn instagram" aria-label="Instagram">
-              <Instagram size={18} />
-            </a>
-            <a href="https://www.linkedin.com/company/meta-developer-communities/"
-               target="_blank" rel="noreferrer"
-               className="footer-icon-btn linkedin" aria-label="LinkedIn">
-              <Linkedin size={18} />
-            </a>
-          </div>
 
-          <h4 className="footer-col-title" style={{ marginTop: 28 }}>Interested in MDC?</h4>
-          <a href="mailto:headgcgc@gitam.edu" className="footer-contact-btn">
-            <Mail size={16} /> Contact Us
-          </a>
-        </div>
 
       </div>
 

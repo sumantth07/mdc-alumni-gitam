@@ -31,7 +31,7 @@ const Navbar = () => {
       {/* LEFT */}
       <div className="navbar-left">
         <img src="/mdclogo.png" alt="MDC Logo" className="navbar-logo" />
-        <span className="navbar-title">Meta Developer Communities Alumni Connect</span>
+        <span className="navbar-title">MDC Alumni Connect</span>
       </div>
 
       {/* RIGHT */}

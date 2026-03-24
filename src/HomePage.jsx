@@ -127,7 +127,7 @@ const AboutAlumni = () => {
     {
       img: visionaryGuru,
       name: "Gurumoorthy Gangadharan",
-      role: "Co-Founder & Visionary",
+      role: "Founder & Visionary",
       desc: "Pioneered the MDC initiative, laying the foundation for a thriving developer community at GITAM.",
       link: "https://www.linkedin.com/in/ggurumoorthy",
       email: "ggmiitm@gmail.com",
@@ -182,7 +182,7 @@ const AboutAlumni = () => {
     {
       img: paSanjana,
       name: "Sanjana Rayavarapu",
-      mdcRole: "President, AY 22-23",
+      mdcRole: "Ex President, AY 22-23",
       batch: "2019-2023",
       company: "Deloitte",
       linkedin: "https://www.linkedin.com/in/sanjana~rayavarapu/",
@@ -191,7 +191,7 @@ const AboutAlumni = () => {
     {
       img: paHarshita,
       name: "Venkata Gnanaprada Harshita",
-      mdcRole: "Technical Head, AY 22-23",
+      mdcRole: "Ex Technical Head, AY 22-23",
       batch: "2020-2024",
       company: "Tata Elxsi",
       linkedin: "https://www.linkedin.com/in/harshitapvg/",
@@ -200,7 +200,7 @@ const AboutAlumni = () => {
     {
       img: paHarshitha,
       name: "Kashyapi Naga Harshitha Kolipaka",
-      mdcRole: "Technical Head, AY 23-24",
+      mdcRole: "Ex Technical Head, AY 23-24",
       batch: "2021-2025",
       company: "Zeta",
       linkedin: "https://www.linkedin.com/in/harshitha-kolipaka-06b7411aa/",
@@ -209,7 +209,7 @@ const AboutAlumni = () => {
     {
       img: paSumeet,
       name: "Sumeet Prusty",
-      mdcRole: "Creative Head, AY 23-24",
+      mdcRole: "Ex Creative Head, AY 23-24",
       batch: "2021-2025",
       company: "JP Morgan",
       linkedin: "https://www.linkedin.com/in/sumeet-prusty-051352246/",
@@ -218,7 +218,7 @@ const AboutAlumni = () => {
     {
       img: paSaketh,
       name: "Saketh D V",
-      mdcRole: "WebArcs Lead, AY 23-24",
+      mdcRole: "Ex WebArcs Lead, AY 23-24",
       batch: "2021-2025",
       company: "State Street",
       linkedin: "https://www.linkedin.com/in/dv-saketh-varma-936847246/",
@@ -227,7 +227,7 @@ const AboutAlumni = () => {
     {
       img: paSaiP,
       name: "Sai Praseeda Atluri",
-      mdcRole: "Content Lead, AY 24-25",
+      mdcRole: "Ex Content Lead, AY 24-25",
       batch: "2022-2026",
       company: "Synopsys",
       linkedin: "https://www.linkedin.com/in/saipraseedaatluri/",
