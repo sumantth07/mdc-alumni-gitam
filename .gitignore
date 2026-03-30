@@ -1,1 +1,28 @@
+# Environment variables
 .env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# IDE
+.vscode/
+.metadata/
+
+# Build and dist
+build/
+dist/
+.dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Misc
+output/
